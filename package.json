@@ -35,7 +35,7 @@
   "dependencies": {
     "@gar/promise-retry": "^1.0.0",
     "@npmcli/agent": "^4.0.0",
-    "cacache": "^20.0.1",
+    "cacache": "^20.0.3",
     "http-cache-semantics": "^4.1.1",
     "minipass": "^7.0.2",
     "minipass-fetch": "^5.0.0",
